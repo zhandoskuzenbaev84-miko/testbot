@@ -1,0 +1,86 @@
+{
+  "Matematika": [
+    "Sonlar va arifmetik amallar",
+    "Algebraik ifodalar va qisqa ko'paytirish formulalari",
+    "Chiziqli tenglama va tengsizliklar",
+    "Kvadrat tenglamalar va kvadratik funksiya",
+    "Ratsional va irratsional tenglamalar",
+    "Ko'rsatkichli va logarifmik ifodalar va tenglamalar",
+    "Trigonometriya asoslari va tenglamalar",
+    "Arifmetik va geometrik progressiyalar",
+    "Funksiyalar, ularning xossalari va grafiklari",
+    "Hosila va uning tatbiqlari",
+    "Boshlang'ich funksiya va aniq integral",
+    "Planimetriya: uchburchaklar va to'rtburchaklar",
+    "Planimetriya: aylana va doira",
+    "Stereometriya: fazoviy jismlar",
+    "Vektorlar va koordinatalar sistemasi",
+    "Kombinatorika va ehtimollar nazariyasi"
+  ],
+  "Fizika": [
+    "Kinematika: to'g'ri chiziqli tekis va tezlanuvchan harakat",
+    "Dinamika: Nyuton qonunlari va kuchlar",
+    "Saqlanish qonunlari: impuls va energiya",
+    "Statika va gidrostatika: bosim va Arximed kuchi",
+    "Mexanik tebranishlar va to'lqinlar",
+    "Molekulyar-kinetik nazariya va ideal gaz qonunlari",
+    "Termodinamika asoslari va issiqlik hodisalari",
+    "Elektrostatika: Kulon qonuni va elektr maydon",
+    "O'zgarmas elektr toki va elektr zanjirlari",
+    "Magnit maydoni va elektromagnit induksiya",
+    "Elektromagnit tebranishlar va to'lqinlar",
+    "Optika: geometrik va to'lqin optikasi",
+    "Kvant fizikasi, atom va yadro fizikasi"
+  ],
+  "Ona tili va adabiyot": [
+    "Fonetika va orfoepiya",
+    "Leksikologiya va frazeologiya",
+    "Morfologiya: mustaqil va yordamchi so'z turkumlari",
+    "Sintaksis: so'z birikmasi va oddiy gap sintaksisi",
+    "Qo'shma gaplar va ularning turlari",
+    "Tinish belgilari qoidalari",
+    "O'zbek mumtoz adabiyoti",
+    "O'zbek yangi davr adabiyoti",
+    "Adabiyot nazariyasi asoslari"
+  ],
+  "O'zbekiston tarixi": [
+    "Qadimgi O'rta Osiyo sivilizatsiyalari",
+    "Ilk o'rta asrlar davri (V-VIII asrlar)",
+    "Renessans davri va Somoniylar, Qoraxoniylar, G'aznaviylar",
+    "Amir Temur va Temuriylar davri",
+    "O'zbek xonliklari davri (Buxoro, Xiva, Qo'qon)",
+    "Chor Rossiyasi mustamlakachiligi davri",
+    "Jadidchilik harakati va ma'rifatparvarlik",
+    "Sovet mustabid tuzumi davri",
+    "Mustaqillik davri O'zbekiston taraqqiyoti"
+  ],
+  "Biologiya": [
+    "Sitologiya: hujayra tuzilishi va xillari",
+    "Botanika: o'simliklar anatomiyasi va fiziologiyasi",
+    "Zoologiya: umurtqasiz va umurtqali hayvonlar",
+    "Odam anatomiyasi va fiziologiyasi",
+    "Genetika va seleksiya asoslari",
+    "Evolyutsiya nazariyasi",
+    "Ekologiya va biosfera"
+  ],
+  "Kimyo": [
+    "Kimyoning asosiy tushuncha va qonunlari",
+    "Davriy qonun va atom tuzilishi",
+    "Kimyoviy bog'lanish va modda tuzilishi",
+    "Eritmalar va ularning konsentratsiyalari",
+    "Anorganik birikmalarning asosiy sinflari",
+    "Elektrolitik dissotsilanish va gidroliz",
+    "Oksidlanish-qaytarilish reaksiyalari",
+    "Uglevodorodlar: to'yingan va to'yinmagan",
+    "Kislorodli va azotli organik birikmalar"
+  ],
+  "Ingliz tili": [
+    "Grammar: Tenses and Aspects",
+    "Grammar: Modals and Conditionals",
+    "Grammar: Passive Voice and Reported Speech",
+    "Grammar: Gerunds and Infinitives",
+    "Vocabulary: Advanced Collocations and Idioms",
+    "Reading Comprehension: Detail & Main Idea",
+    "Reading Comprehension: Inference & Vocabulary in Context"
+  ]
+}
